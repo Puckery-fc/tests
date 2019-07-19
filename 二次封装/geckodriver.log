@@ -1,0 +1,1177 @@
+
+1536567089158	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536567097109	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536567097388	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536567100656	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536568058298	Marionette	INFO	Stopped listening on port 62731
+ent pageshow for http://www.sohu.com/
+1536567174654	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536567177910	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536567183711	Marionette	INFO	Stopped listening on port 62992
+1536567511969	geckodriver	INFO	geckodriver 0.21.0
+1536567511977	geckodriver	INFO	Listening on 127.0.0.1:63858
+1536567515023	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Th5fsmjwHctO"
+1536567516338	Marionette	INFO	Listening on port 63867
+1536567516645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536567516684	Marionette	DEBUG	[6442450945] Frame script loaded
+1536567516689	Marionette	DEBUG	[6442450945] Frame script registered
+1536567516704	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536567516727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536567518405	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536567525495	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536567525756	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536567528979	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 7936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536567715414	Marionette	INFO	Stopped listening on port 63867
+1536567886803	geckodriver	INFO	geckodriver 0.21.0
+1536567886811	geckodriver	INFO	Listening on 127.0.0.1:64428
+1536567889848	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.P2vmBEyP9JRa"
+1536567891125	Marionette	INFO	Listening on port 64436
+1536567891457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536567891492	Marionette	DEBUG	[6442450945] Frame script loaded
+1536567891498	Marionette	DEBUG	[6442450945] Frame script registered
+1536567891515	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536567891533	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536567893295	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536567909455	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536567909724	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536567912968	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 4492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1536567952090	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.oPjmpF6gPStD"
+1536567953316	Marionette	INFO	Listening on port 64703
+1536567953699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536567953737	Marionette	DEBUG	[6442450945] Frame script loaded
+1536567953744	Marionette	DEBUG	[6442450945] Frame script registered
+1536567953762	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536567953782	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536567955835	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536567964520	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536567964789	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536567968066	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536567978260	Marionette	INFO	Stopped listening on port 64703
+1536572499255	geckodriver	INFO	geckodriver 0.21.0
+1536572499263	geckodriver	INFO	Listening on 127.0.0.1:53290
+1536572502304	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gQFjDffYEFfm"
+1536572503665	Marionette	INFO	Listening on port 53298
+1536572503918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536572503954	Marionette	DEBUG	[6442450945] Frame script loaded
+1536572503959	Marionette	DEBUG	[6442450945] Frame script registered
+1536572503972	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536572504084	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536572506166	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536572513914	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536572514198	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536572517464	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 8404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536572527730	Marionette	INFO	Stopped listening on port 53298
+1536573332370	geckodriver	INFO	geckodriver 0.21.0
+1536573332377	geckodriver	INFO	Listening on 127.0.0.1:53860
+1536573335419	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.AZm3ZM05JEpW"
+1536573336635	Marionette	INFO	Listening on port 53869
+1536573337035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536573337092	Marionette	DEBUG	[6442450945] Frame script loaded
+1536573337097	Marionette	DEBUG	[6442450945] Frame script registered
+1536573337110	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536573337134	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536573338872	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536573346979	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536573347260	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536573350529	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 8772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536573430389	Marionette	INFO	Stopped listening on port 53869
+1536573433335	geckodriver	INFO	geckodriver 0.21.0
+1536573433342	geckodriver	INFO	Listening on 127.0.0.1:54132
+1536573436374	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.X5B1PzfdSSsI"
+1536573437684	Marionette	INFO	Listening on port 54140
+1536573437984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536573438020	Marionette	DEBUG	[6442450945] Frame script loaded
+1536573438026	Marionette	DEBUG	[6442450945] Frame script registered
+1536573438045	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536573438068	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536573439721	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+JavaScript error: http://hotword.sogoucdn.com/hot_word.json?callback=_getjson&_=1536573438803, line 1: ReferenceError: _getjson is not defined
+1536573446563	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536573446842	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536573450118	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 6856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536573461228	Marionette	INFO	Stopped listening on port 54140
+1536573487923	geckodriver	INFO	geckodriver 0.21.0
+1536573487931	geckodriver	INFO	Listening on 127.0.0.1:54359
+1536573490965	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dbzGIQu6keui"
+1536573492230	Marionette	INFO	Listening on port 54368
+1536573492581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536573492653	Marionette	DEBUG	[6442450945] Frame script loaded
+1536573492661	Marionette	DEBUG	[6442450945] Frame script registered
+1536573492676	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536573492693	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536573494532	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536573502917	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536573503182	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536573506444	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 10216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536573518991	Marionette	INFO	Stopped listening on port 54368
+1536573596143	geckodriver	INFO	geckodriver 0.21.0
+1536573596150	geckodriver	INFO	Listening on 127.0.0.1:54601
+1536573599194	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.zuZkiBPgT96F"
+1536573600455	Marionette	INFO	Listening on port 54610
+1536573600812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536573600864	Marionette	DEBUG	[6442450945] Frame script loaded
+1536573600871	Marionette	DEBUG	[6442450945] Frame script registered
+1536573600888	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536573600903	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536573603103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536573618438	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536573618709	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536573621978	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 7244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536573639203	Marionette	INFO	Stopped listening on port 54610
+1536574729180	geckodriver	INFO	geckodriver 0.21.0
+1536574729187	geckodriver	INFO	Listening on 127.0.0.1:55287
+1536574732232	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Lmmc30MYz7ay"
+1536574733598	Marionette	INFO	Listening on port 55295
+1536574733850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536574733896	Marionette	DEBUG	[6442450945] Frame script loaded
+1536574733902	Marionette	DEBUG	[6442450945] Frame script registered
+1536574733915	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536574733933	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536574735717	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536574744472	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536574744750	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536574748000	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 9620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536574764882	Marionette	INFO	Stopped listening on port 55295
+1536574805311	geckodriver	INFO	geckodriver 0.21.0
+1536574805318	geckodriver	INFO	Listening on 127.0.0.1:55532
+1536574808351	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Pu7SnMDhKC9V"
+1536574809681	Marionette	INFO	Listening on port 55540
+1536574809976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536574810031	Marionette	DEBUG	[6442450945] Frame script loaded
+1536574810037	Marionette	DEBUG	[6442450945] Frame script registered
+1536574810056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536574810072	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536574827059	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+1536574827066	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536574827328	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536574830612	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 10216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536574840114	Marionette	INFO	Stopped listening on port 55540
+1536574864213	geckodriver	INFO	geckodriver 0.21.0
+1536574864222	geckodriver	INFO	Listening on 127.0.0.1:55757
+1536574867261	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7eZvmO0xda03"
+1536574868585	Marionette	INFO	Listening on port 55765
+1536574868876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536574868943	Marionette	DEBUG	[6442450945] Frame script loaded
+1536574868955	Marionette	DEBUG	[6442450945] Frame script registered
+1536574868995	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536574869014	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536574870800	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+JavaScript error: http://hotword.sogoucdn.com/hot_word.json?callback=_getjson&_=1536574869854, line 1: ReferenceError: _getjson is not defined
+1536574886912	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536574887198	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536574890439	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536574902949	Marionette	INFO	Stopped listening on port 55765
+1536576894825	geckodriver	INFO	geckodriver 0.21.0
+1536576894832	geckodriver	INFO	Listening on 127.0.0.1:56164
+1536576897866	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.QQ3wMihEWGak"
+1536576899208	Marionette	INFO	Listening on port 56172
+1536576899478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536576899533	Marionette	DEBUG	[6442450945] Frame script loaded
+1536576899541	Marionette	DEBUG	[6442450945] Frame script registered
+1536576899563	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536576899585	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536576903281	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+1536576908664	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536576908918	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536576912194	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577711257	Marionette	INFO	Stopped listening on port 56172
+e	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536577002093	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536577004014	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577018678	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577018950	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577022210	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+1536577031483	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 3920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577710925	Marionette	INFO	Stopped listening on port 56419
+e	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536577042608	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577045683	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+1536577051959	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577052214	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577055475	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577064782	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 6556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577710564	Marionette	INFO	Stopped listening on port 56670
+.json?callback=_getjson&_=1536577117200, line 1: ReferenceError: _getjson is not defined
+1536577125350	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577125625	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577128855	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 3244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577710360	Marionette	INFO	Stopped listening on port 56947
+de for about:blank
+1536577186607	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577196149	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577196414	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577199672	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 8832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577710153	Marionette	INFO	Stopped listening on port 57193
+m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577424632	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://www.sohu.com/
+1536577424886	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1536577428118	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1536577431128	geckodriver	INFO	geckodriver 0.21.0
+1536577431135	geckodriver	INFO	Listening on 127.0.0.1:57698
+1536577434148	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eK6otLDWOGlm"
+1536577435371	Marionette	INFO	Listening on port 57708
+1536577435770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536577435808	Marionette	DEBUG	[6442450945] Frame script loaded
+1536577435813	Marionette	DEBUG	[6442450945] Frame script registered
+1536577435827	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536577435845	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536577437769	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577446969	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577447232	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577450472	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577454700	geckodriver	INFO	geckodriver 0.21.0
+1536577454707	geckodriver	INFO	Listening on 127.0.0.1:57935
+1536577457732	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.MWOknq88Xw1i"
+1536577458991	Marionette	INFO	Listening on port 57944
+1536577459340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536577459366	Marionette	DEBUG	[6442450945] Frame script loaded
+1536577459371	Marionette	DEBUG	[6442450945] Frame script registered
+1536577459389	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536577459413	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536577461242	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577469499	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577469753	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577472999	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 10892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577709895	Marionette	INFO	Stopped listening on port 57944
+ http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536577492327	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577492595	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577495835	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577505114	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 11096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577709450	Marionette	INFO	Stopped listening on port 58172
+allback=_getjson&_=1536577510680, line 1: ReferenceError: _getjson is not defined
+1536577526961	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536577527216	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536577530457	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536577709043	Marionette	INFO	Stopped listening on port 58416
+1536645943402	geckodriver	INFO	geckodriver 0.21.0
+1536645943408	geckodriver	INFO	Listening on 127.0.0.1:61495
+1536645946440	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GCmWrJ7v1eVQ"
+1536645947697	Marionette	INFO	Listening on port 61503
+1536645948053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536645948107	Marionette	DEBUG	[6442450945] Frame script loaded
+1536645948112	Marionette	DEBUG	[6442450945] Frame script registered
+1536645948123	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536645948142	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536645949856	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536645956430	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536645956684	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536645959940	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536645968746	Marionette	INFO	Stopped listening on port 61503
+1536646178796	geckodriver	INFO	geckodriver 0.21.0
+1536646178803	geckodriver	INFO	Listening on 127.0.0.1:61854
+1536646181853	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bHxtZSWE1DTJ"
+1536646183052	Marionette	INFO	Listening on port 61862
+1536646183465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536646183489	Marionette	DEBUG	[6442450945] Frame script loaded
+1536646183494	Marionette	DEBUG	[6442450945] Frame script registered
+1536646183505	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536646183527	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536646185028	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536646194279	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536646194523	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536646197820	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536646201183	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 3440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536646234705	Marionette	INFO	Stopped listening on port 61862
+ detected
+1536646218321	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 1564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536646237383	Marionette	INFO	Stopped listening on port 62102
+1536646259368	geckodriver	INFO	geckodriver 0.21.0
+1536646259375	geckodriver	INFO	Listening on 127.0.0.1:62358
+1536646262419	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.pwNwfM9RiIMg"
+1536646263639	Marionette	INFO	Listening on port 62366
+1536646264031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536646264055	Marionette	DEBUG	[6442450945] Frame script loaded
+1536646264061	Marionette	DEBUG	[6442450945] Frame script registered
+1536646264073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536646264095	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536646265958	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536646272819	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536646273075	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536646276302	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536646279754	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536646287260	Marionette	INFO	Stopped listening on port 62366
+1536647023539	geckodriver	INFO	geckodriver 0.21.0
+1536647023546	geckodriver	INFO	Listening on 127.0.0.1:63322
+1536647026569	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.14ju1EhrISJx"
+1536647027765	Marionette	INFO	Listening on port 63330
+1536647028214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647028254	Marionette	DEBUG	[6442450945] Frame script loaded
+1536647028259	Marionette	DEBUG	[6442450945] Frame script registered
+1536647028274	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536647028300	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536647030431	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536647037872	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536647038141	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647041438	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647044707	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647044720	Marionette	INFO	Stopped listening on port 63330
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536647045646	geckodriver	INFO	geckodriver 0.21.0
+1536647045652	geckodriver	INFO	Listening on 127.0.0.1:63540
+1536647048691	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.C4idc6V7sg0T"
+1536647050030	Marionette	INFO	Listening on port 63548
+1536647050312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647050376	Marionette	DEBUG	[6442450945] Frame script loaded
+1536647050384	Marionette	DEBUG	[6442450945] Frame script registered
+1536647050396	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536647050414	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536647052809	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536647060221	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536647060493	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647063727	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647067014	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647067027	Marionette	INFO	Stopped listening on port 63548
+[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536647412099	geckodriver	INFO	geckodriver 0.21.0
+1536647412107	geckodriver	INFO	Listening on 127.0.0.1:64137
+1536647415148	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0DHAPmUEB2vs"
+1536647416455	Marionette	INFO	Listening on port 64145
+1536647416771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647416836	Marionette	DEBUG	[6442450945] Frame script loaded
+1536647416843	Marionette	DEBUG	[6442450945] Frame script registered
+1536647416863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536647416885	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536647419158	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+Java1536647421737	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe"1536647425083	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536647425353	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647428584	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647431878	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647431888	Marionette	INFO	Stopped listening on port 64145
+[Child 10104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: http://39d0825d09f05.cdn.sohucs.com/sdk/passport-4.0.3.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B2,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent:1536647445025	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536647445304	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647448545	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647451948	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647451962	Marionette	INFO	Stopped listening on port 64377
+[Child 8064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536647466351	geckodriver	INFO	geckodriver 0.21.0
+1536647466359	geckodriver	INFO	Listening on 127.0.0.1:64609
+1536647469416	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.d8JhbwuAYzia"
+1536647470907	Marionette	INFO	Listening on port 64618
+1536647471030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647471054	Marionette	DEBUG	[6442450945] Frame script loaded
+1536647471059	Marionette	DEBUG	[6442450945] Frame script registered
+1536647471070	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536647471087	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536647472936	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536647479348	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536647479619	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647482860	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647486221	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647486239	Marionette	INFO	Stopped listening on port 64618
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536647488128	geckodriver	INFO	geckodriver 0.21.0
+1536647488136	geckodriver	INFO	Listening on 127.0.0.1:64836
+1536647491188	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.StPceqGAZFtJ"
+1536647492505	Marionette	INFO	Listening on port 64845
+1536647492797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647492857	Marionette	DEBUG	[6442450945] Frame script loaded
+1536647492866	Marionette	DEBUG	[6442450945] Frame script registered
+1536647492887	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536647492915	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536647494876	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536647501185	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536647501467	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647504700	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647508042	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536647508073	Marionette	INFO	Stopped listening on port 64845
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536648015738	geckodriver	INFO	geckodriver 0.21.0
+1536648015745	geckodriver	INFO	Listening on 127.0.0.1:65273
+1536648018788	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wej9CUrPo5Ex"
+1536648020097	Marionette	INFO	Listening on port 65281
+1536648020401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536648020442	Marionette	DEBUG	[6442450945] Frame script loaded
+1536648020450	Marionette	DEBUG	[6442450945] Frame script registered
+1536648020466	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536648020489	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536648021161	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.sohu.com/
+1536648021162	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+1536648021172	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+[Child 11044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536648021367	Marionette	INFO	Stopped listening on port 65281
+1536648021971	geckodriver	INFO	geckodriver 0.21.0
+1536648021978	geckodriver	INFO	Listening on 127.0.0.1:65315
+1536648025029	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.SADL2Bj3kelG"
+1536648026365	Marionette	INFO	Listening on port 65323
+1536648026647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536648026693	Marionette	DEBUG	[6442450945] Frame script loaded
+1536648026700	Marionette	DEBUG	[6442450945] Frame script registered
+1536648026712	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536648026729	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536648027584	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536648027723	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.sohu.com/
+1536648027735	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 2516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536648027904	Marionette	INFO	Stopped listening on port 65323
+1536649572465	geckodriver	INFO	geckodriver 0.21.0
+1536649572472	geckodriver	INFO	Listening on 127.0.0.1:49165
+1536649575527	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Z0oAInOQu5rY"
+1536649576817	Marionette	INFO	Listening on port 49173
+1536649577145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536649577217	Marionette	DEBUG	[6442450945] Frame script loaded
+1536649577226	Marionette	DEBUG	[6442450945] Frame script registered
+1536649577240	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536649577261	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536649579127	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536649585809	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536649586073	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649589345	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649592669	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649592694	Marionette	INFO	Stopped listening on port 49173
+[Parent 6568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536649642683	geckodriver	INFO	geckodriver 0.21.0
+1536649642690	geckodriver	INFO	Listening on 127.0.0.1:49427
+1536649645730	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3vD5dQwGXeyh"
+1536649647024	Marionette	INFO	Listening on port 49437
+1536649647348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536649647404	Marionette	DEBUG	[6442450945] Frame script loaded
+1536649647413	Marionette	DEBUG	[6442450945] Frame script registered
+1536649647432	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536649647459	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536649649231	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536649654646	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536649654895	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649658164	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649661488	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649661517	Marionette	INFO	Stopped listening on port 49437
+[Parent 4700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536649684779	geckodriver	INFO	geckodriver 0.21.0
+1536649684786	geckodriver	INFO	Listening on 127.0.0.1:49654
+1536649687839	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VcGAjPHgZ7FU"
+1536649689212	Marionette	INFO	Listening on port 49664
+1536649689466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536649689523	Marionette	DEBUG	[6442450945] Frame script loaded
+1536649689531	Marionette	DEBUG	[6442450945] Frame script registered
+1536649689553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536649689584	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536649691010	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536649698901	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536649699176	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649702466	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649705839	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649705852	Marionette	INFO	Stopped listening on port 49664
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536649718008	geckodriver	INFO	geckodriver 0.21.0
+1536649718015	geckodriver	INFO	Listening on 127.0.0.1:49887
+1536649721070	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.s5s6slzFm2we"
+1536649722459	Marionette	INFO	Listening on port 49895
+1536649722698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536649722734	Marionette	DEBUG	[6442450945] Frame script loaded
+1536649722739	Marionette	DEBUG	[6442450945] Frame script registered
+1536649722752	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536649722771	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536649724965	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536649741114	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536649741398	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649744653	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649747963	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649747985	Marionette	INFO	Stopped listening on port 49895
+[Parent 12244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536649749489	geckodriver	INFO	geckodriver 0.21.0
+1536649749496	geckodriver	INFO	Listening on 127.0.0.1:50148
+1536649752547	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eJEG6PCg0d0z"
+1536649753848	Marionette	INFO	Listening on port 50156
+1536649754160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536649754222	Marionette	DEBUG	[6442450945] Frame script loaded
+1536649754228	Marionette	DEBUG	[6442450945] Frame script registered
+1536649754243	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536649754266	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536649756040	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1536649763523	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1536649763809	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649767105	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649770460	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536649770472	Marionette	INFO	Stopped listening on port 50156
+[Child 5716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1556438087369	geckodriver	INFO	geckodriver 0.21.0
+1556438087385	geckodriver	INFO	Listening on 127.0.0.1:63054
+1556438090384	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IgKooKsdep0a"
+1556438091367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556438091367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556438091452	Marionette	TRACE	Received observer notification profile-after-change
+1556438091527	Marionette	TRACE	Received observer notification toplevel-window-ready
+1556438091558	Marionette	TRACE	Received observer notification command-line-startup
+1556438091558	Marionette	TRACE	Received observer notification nsPref:changed
+1556438091558	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1556438091692	Marionette	TRACE	Received observer notification toplevel-window-ready
+1556438092496	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1556438092496	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1556438092594	Marionette	TRACE	All scripts recorded.
+1556438092594	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1556438092594	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1556438092594	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1556438092594	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1556438092595	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1556438092595	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1556438092595	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1556438092595	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1556438092595	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1556438092595	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1556438092596	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1556438092596	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1556438092596	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1556438092596	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1556438092596	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1556438092596	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1556438092596	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1556438092596	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1556438092596	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1556438092596	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1556438092596	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1556438092596	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1556438092597	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1556438092597	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1556438092597	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1556438092597	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1556438092597	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1556438092625	Marionette	INFO	Listening on port 63071
+1556438092625	Marionette	DEBUG	Remote service is active
+1556438093124	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63094
+1556438093125	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1556438093125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556438093158	Marionette	TRACE	[6442450945] Frame script loaded
+1556438093166	Marionette	TRACE	[6442450945] Frame script registered
+1556438093169	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"126ddea5-a675-4abe-88ea-1c921eb4b5db","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1556438093184	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"http://www.sohu.com/"}]
+1556438093195	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:blank
+1556438093611	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:blank
+1556438098516	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://images.sohu.com/bill/default/sohu-require.js, line 1: Error: Script error
+http://requirejs.org/docs/errors.html#scripterror
+1556438134743	Marionette	TRACE	[6442450945] Received DOM event beforeunload for http://www.sohu.com/
+1556438134848	Marionette	TRACE	Received DOM event unload for [object XULDocument]
+1556438134853	Marionette	TRACE	Received observer notification message-manager-disconnect
+1556438134855	Marionette	TRACE	[6442450945] Received DOM event unload for http://www.sohu.com/
+1556438134870	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1556438134878	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134879	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134879	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134879	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134879	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134879	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134879	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134880	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134880	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134880	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134880	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134880	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134880	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134881	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134881	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134881	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134881	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134881	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134881	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134882	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134883	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438134892	Marionette	DEBUG	0 -> [0,3,"WebDriver:SetTimeouts",{"implicit":30000}]
+1556438134892	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/b1556438134902	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"link text","value":"登录狐友"}]
+uild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mium/src/chrome/common/ipc_channel_win.cc, line 332
+1556438134903	Marionette	DEBUG	0 <- [1,4,{"error":"no such window","message":"Browsing context has been discarded","stacktrace":"WebDriverError@chrome://marionet ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1556438134911	Marionette	DEBUG	Closed connection 0
+[Child 12760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12760, Chrome_ChildThread] WARNING: pipe error: 101556438135077	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1556438135078	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1556438135078	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1556438135078	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1556438135078	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1556438135078	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1556438135078	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1556438135078	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1556438135078	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1556438135079	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1556438135079	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1556438135079	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1556438135079	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1556438135079	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1556438135079	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1556438135079	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1556438135079	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1556438135079	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1556438135079	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1556438135080	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1556438135080	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1556438135080	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1556438135080	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1556438135080	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1556438135080	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1556438135080	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1556438135080	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1556438135080	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1556438135080	Marionette	INFO	Stopped listening on port 63071
+1556438135080	Marionette	DEBUG	Remote service is inactive
+[GPU 14116, Chrome_ChildThread] WARNING: pip
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1556438137565	geckodriver	INFO	geckodriver 0.21.0
+1556438137577	geckodriver	INFO	Listening on 127.0.0.1:63527
+1556438140617	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.rHOlHh5NAfAs"
+1556438141641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556438141641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556438141730	Marionette	TRACE	Received observer notification profile-after-change
+1556438141794	Marionette	TRACE	Received observer notification toplevel-window-ready
+1556438141824	Marionette	TRACE	Received observer notification command-line-startup
+1556438141824	Marionette	TRACE	Received observer notification nsPref:changed
+1556438141824	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1556438141955	Marionette	TRACE	Received observer notification toplevel-window-ready
+1556438142738	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1556438142739	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1556438142833	Marionette	TRACE	All scripts recorded.
+1556438142833	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1556438142834	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1556438142834	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1556438142835	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1556438142835	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1556438142835	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1556438142835	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1556438142835	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1556438142835	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1556438142835	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1556438142835	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1556438142835	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1556438142835	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1556438142835	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1556438142835	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1556438142836	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1556438142836	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1556438142836	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1556438142836	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1556438142836	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1556438142864	Marionette	INFO	Listening on port 63545
+1556438142864	Marionette	DEBUG	Remote service is active
+1556438142878	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63563
+1556438142884	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1556438142884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556438142921	Marionette	TRACE	[6442450945] Frame script loaded
+1556438142930	Marionette	TRACE	[6442450945] Frame script registered
+1556438142932	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"0564ab87-b53a-47ff-8660-f71dd38efdf0","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1556438142944	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"http://www.sohu.com/"}]
+1556438142962	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:blank
+1556438143203	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:blank
+1556438145649	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://hotword.sogoucdn.com/hot_word.json?callback=_getjson&_=1556438144544, line 1: ReferenceError: _getjson is not defined
+1556438157174	Marionette	TRACE	[6442450945] Received DOM event beforeunload for http://www.sohu.com/
+1556438157206	Marionette	TRACE	Received DOM event unload for [object XULDocument]
+1556438157211	Marionette	TRACE	Received observer notification message-manager-disconnect
+1556438157214	Marionette	TRACE	[6442450945] Received DOM event unload for http://www.sohu.com/
+1556438157231	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1556438157248	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157248	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157248	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157249	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157249	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157249	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157249	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157249	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157250	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157251	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157252	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157252	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1556438157252	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+[Child 13040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556438157262	Marionette	DEBUG	0 -> [0,3,"WebDriver:SetTimeouts",{"implicit":30000}]
+1556438157264	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1556438157276	Marionette	DEBUG	Closed connection 0
+[Child 12740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556438157447	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1556438157447	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1556438157447	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1556438157448	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1556438157449	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1556438157449	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1556438157449	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1556438157449	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1556438157449	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1556438157449	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1556438157449	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1556438157449	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1556438157449	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1556438157449	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1556438157449	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1556438157449	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1556438157449	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1556438157450	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1556438157450	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1556438157450	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1556438157450	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1556438157450	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1556438157450	Marionette	INFO	Stopped listening on port 63545
+1556438157450	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13808, Chrome_ChildThread] WARNING: pipe error1557136504794	geckodriver	INFO	geckodriver 0.21.0
+1557136504818	geckodriver	INFO	Listening on 127.0.0.1:63102
+1557136507830	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iyMRvMMLN5Ej"
+1557136508800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557136508800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557136508800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557136508879	Marionette	TRACE	Received observer notification profile-after-change
+1557136508946	Marionette	TRACE	Received observer notification toplevel-window-ready
+1557136508971	Marionette	TRACE	Received observer notification command-line-startup
+1557136508971	Marionette	TRACE	Received observer notification nsPref:changed
+1557136508971	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1557136509113	Marionette	TRACE	Received observer notification toplevel-window-ready
+1557136509888	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1557136509888	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+1557136509953	Marionette	TRACE	Received observer notification domwindowclosed
+1557136509954	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1557136510060	Marionette	TRACE	All scripts recorded.
+1557136510060	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1557136510061	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1557136510061	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1557136510061	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1557136510061	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1557136510061	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1557136510062	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1557136510062	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1557136510062	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1557136510062	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1557136510062	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1557136510062	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1557136510062	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1557136510062	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1557136510062	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1557136510062	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1557136510062	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1557136510062	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1557136510063	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1557136510063	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1557136510063	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1557136510063	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1557136510063	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1557136510063	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1557136510063	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1557136510063	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1557136510063	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1557136510093	Marionette	INFO	Listening on port 63120
+1557136510093	Marionette	DEBUG	Remote service is active
+1557136510581	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63142
+1557136510583	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1557136510584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557136510637	Marionette	TRACE	[6442450945] Frame script loaded
+1557136510648	Marionette	TRACE	[6442450945] Frame script registered
+1557136510650	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"856e2548-6aff-4397-a05f-0066dfabc396","capabilities":{"browserName":"firefox","browserVersion":"66.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1557136510667	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"http://www.sohu.com/"}]
+1557136510679	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:blank
+1557136510702	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://hqm.stock.sohu.com/getqjson?code=zs_000001,zs_399001,zs_399006&cb=jQuery112406749561556540921_1557136511532&_=1557136511640, line 1: SyntaxError: expected expression, got '<'
+1557136512536	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1557136519631	Marionette	TRACE	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1557136519633	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1557136519635	Marionette	DEBUG	0 -> [0,3,"WebDriver:SetTimeouts",{"implicit":30000}]
+1557136519636	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1557136519639	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"link text","value":"登录狐友"}]
+1557136519656	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"85c468b2-30a9-4c2e-a5c7-35c139afbbcc"}}]
+1557136519659	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementClick",{"id":"85c468b2-30a9-4c2e-a5c7-35c139afbbcc"}]
+1557136519902	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557136519903	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1557136522908	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"/html/body/div[4]/div[1]/ul/li[1]"}]
+1557136552918	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: /html/body/div[4]/div[1]/ul/li[1]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1557136602458	Marionette	DEBUG	Closed connection 0
+[Parent 14504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13872, Chrome_ChildThread] WARNING: pipe error: 109: file[Child 1628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c1557136619460	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1557136619460	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1557136619460	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1557136619460	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1557136619461	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1557136619462	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1557136619462	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1557136619462	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1557136619462	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1557136619462	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1557136619462	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1557136619462	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1557136619462	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1557136619462	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1557136619462	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1557136619462	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1557136619463	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1557136619463	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1557136619463	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1557136619463	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1557136619463	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1557136619463	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1557136619463	Marionette	INFO	Stopped listening on port 63120
+1557136619463	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ons.cache.enabled to false
+1557136560400	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1557136560400	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1557136560400	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1557136560400	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1557136560400	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1557136560401	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1557136560401	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1557136560401	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1557136560434	Marionette	INFO	Listening on port 63550
+1557136560434	Marionette	DEBUG	Remote service is active
+1557136560512	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63589
+1557136560513	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1557136560513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557136560546	Marionette	TRACE	[6442450945] Frame script loaded
+1557136560553	Marionette	TRACE	[6442450945] Frame script registered
+1557136560555	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"66674310-88bf-4a43-a7e7-086a8797791a","capabilities":{"browserName":"firefox","browserVersion":"66.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1557136560572	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"http://www.sohu.com/"}]
+1557136560584	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:blank
+1557136560600	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://hqm.stock.sohu.com/getqjson?code=zs_000001,zs_399001,zs_399006&cb=jQuery1124015937355076614934_1557136561364&_=1557136561512, line 1: SyntaxError: expected expression, got '<'
+1557136564989	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for http://www.sohu.com/
+JavaScript error: http://m1.auto.itc.cn/sohupchome/main_right_v2.js, line 3: TypeError: E[1] is undefined
+1557136569149	Marionette	TRACE	[6442450945] Received DOM event pageshow for http://www.sohu.com/
+1557136569149	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1557136569152	Marionette	DEBUG	0 -> [0,3,"WebDriver:SetTimeouts",{"implicit":30000}]
+1557136569153	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1557136569157	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"link text","value":"登录狐友"}]
+1557136569172	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"02937372-abe1-4b76-ad19-02350a3e6847"}}]
+1557136569175	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementClick",{"id":"02937372-abe1-4b76-ad19-02350a3e6847"}]
+1557136569410	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1557136569411	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1557136572415	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"/html/body/div[4]/div[1]/ul/li[1]"}]
+1557136602425	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: /html/body/div[4]/div[1]/ul/li[1]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1557136602448	Marionette	DEBUG	Closed connection 0
+[Child 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Parent 12684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557136616898	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1557136616898	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1557136616898	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1557136616898	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1557136616898	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1557136616899	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1557136616900	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1557136616900	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1557136616900	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1557136616900	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1557136616900	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1557136616900	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1557136616900	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1557136616900	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1557136616900	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1557136616900	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1557136616900	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1557136616901	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1557136616901	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1557136616901	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1557136616901	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1557136616901	Marionette	INFO	Stopped listening on port 63550
+1557136616901	Marionette	DEBUG	Remote service is inactive
+[GPU 13596, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
